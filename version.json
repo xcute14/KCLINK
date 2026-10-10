@@ -1,7 +1,11 @@
 {
-  "latest": "V4.3.1",
-  "url": "https://raw.githubusercontent.com/xcute14/KCLINK/main/firmware_V4.3.1.bin",
+  "latest": "V4.3.2",
+  "url": "https://raw.githubusercontent.com/xcute14/KCLINK/main/firmware_V4.3.2.bin",
   "versions": [
+    {
+      "ver": "V4.3.2",
+      "url": "https://raw.githubusercontent.com/xcute14/KCLINK/main/firmware_V4.3.2.bin"
+    },
     {
       "ver": "V4.3.1",
       "url": "https://raw.githubusercontent.com/xcute14/KCLINK/main/firmware_V4.3.1.bin"
